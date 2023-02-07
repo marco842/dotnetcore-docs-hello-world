@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'marcocomp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1B8F6C93C6DD42D7820EED9CE8E246D8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D7B85298595947E180EB9CE6F17E72F4 }}
           package: .
